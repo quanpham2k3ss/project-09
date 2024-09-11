@@ -1,0 +1,19 @@
+*, ::before, ::after {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: Manrope, sans-serif;
+    font-size: 1.125rem;
+    font-weight: 400;
+    line-height: 166.667% ;
+}
+
+h1,h2,h3 {
+    font-family: "Roboto Serif", sans-serif;
+    font-weight: 600;
+}
